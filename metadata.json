@@ -1,0 +1,5 @@
+{
+  "name": "AstroVoice AI - Premium Astrology Voice Solutions",
+  "description": "A specialized voice AI agency providing advanced front-desk and senior astrologer agents for astrology companies like India Astrology.",
+  "requestFramePermissions": ["microphone"]
+}
